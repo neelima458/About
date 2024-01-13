@@ -31,7 +31,7 @@ Love to solve complex things in simple ways. -->
 <a href="https://www.instagram.com/neelima.hehe/">
   <img align="center" alt="Neelima's Instagram" width="25px" src="Assets/instagram.png" />
 </a>
-<a href="mailto:neelimapaul385@gmail.com?subject=Hey%20Soham,%20From%20Github">
+<a href="mailto:neelimapaul385@gmail.com?subject=Hey%20Neelima,%20From%20Github">
   <img align="center" alt="Neelima's Gmail" width="25px" src="Assets/gmail.png" />
 </a>
 <br>
